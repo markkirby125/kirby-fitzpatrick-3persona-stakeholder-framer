@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-3persona-stakeholder-framer
-description: "Calibrate proposals across Uninformed, Indifferent, and Skeptical personas." Use this when working on fitzpatrick 3persona stakeholder framer.
+description: "Calibrate proposals across Uninformed, Indifferent, and Skeptical personas. Use this when working on fitzpatrick 3persona stakeholder framer."
 category: "Writing & Communication"
 triggers:
   - "3persona stakeholder framer"
