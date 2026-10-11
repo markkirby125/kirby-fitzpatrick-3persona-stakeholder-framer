@@ -9,7 +9,7 @@ triggers:
   - "stakeholder alignment"
   - "audience calibration"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
